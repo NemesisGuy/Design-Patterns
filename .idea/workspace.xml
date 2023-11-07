@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="moved">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="added to read me" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699355509838</updated>
-      <workItem from="1699355510979" duration="9591000" />
+      <workItem from="1699355510979" duration="9957000" />
     </task>
     <task id="LOCAL-00001" summary="moved">
       <option name="closed" value="true" />
@@ -157,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699376459546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added to read me">
+      <option name="closed" value="true" />
+      <created>1699376863369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699376863369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added to read me">
+      <option name="closed" value="true" />
+      <created>1699377051839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699377051839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moved" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved" />
+    <MESSAGE value="added to read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to read me" />
   </component>
 </project>
