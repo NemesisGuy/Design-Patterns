@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="added to read me" />
+    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="added to licence">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699355509838</updated>
-      <workItem from="1699355510979" duration="9957000" />
+      <workItem from="1699355510979" duration="10107000" />
     </task>
     <task id="LOCAL-00001" summary="moved">
       <option name="closed" value="true" />
@@ -171,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699377051839</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added to licence">
+      <option name="closed" value="true" />
+      <created>1699377292207</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699377292207</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +190,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moved" />
     <MESSAGE value="added to read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to read me" />
+    <MESSAGE value="added to licence" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to licence" />
   </component>
 </project>

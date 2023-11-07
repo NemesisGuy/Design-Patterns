@@ -68,7 +68,7 @@ For examples and usage guidelines specific to each design pattern, please refer 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](License.md).
 
 ## Acknowledgements
 
