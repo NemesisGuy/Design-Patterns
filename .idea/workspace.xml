@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="added to links">
-      <change afterPath="$PROJECT_DIR$/JAVA-SECURITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPRING-SECURITY.md" afterDir="false" />
+    <list default="true" id="f9301ea0-0698-4555-bb20-d5ef7a5f5885" name="Changes" comment="added to links and more read me files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPRING-SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SPRING-SECURITY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,7 @@
       <updated>1699355509838</updated>
       <workItem from="1699355510979" duration="12099000" />
       <workItem from="1699423236741" duration="1904000" />
-      <workItem from="1699427764240" duration="2297000" />
+      <workItem from="1699427764240" duration="2817000" />
     </task>
     <task id="LOCAL-00001" summary="moved">
       <option name="closed" value="true" />
@@ -224,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699427239510</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added to links and more read me files">
+      <option name="closed" value="true" />
+      <created>1699434960052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699434960052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +243,7 @@
     <MESSAGE value="added to licence" />
     <MESSAGE value="added to USE" />
     <MESSAGE value="added to links" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to links" />
+    <MESSAGE value="added to links and more read me files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to links and more read me files" />
   </component>
 </project>
