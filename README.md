@@ -74,4 +74,6 @@ This project is licensed under the [MIT License](License.md).
 
 ## Acknowledgements
 
-Special thanks to the Gang of Four for their pioneering work in design patterns.
+Special thanks to the Gang of Four for their pioneering work in design patterns, as well as to the authors of the following resources:
+
+[Refactoring.guru](https://refactoring.guru/design-patterns/catalog)
