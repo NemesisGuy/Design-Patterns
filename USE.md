@@ -35,7 +35,8 @@ For a complete set of examples and code implementations, please visit [GitHub Re
 
 ## Wiki Documentation
 
-Additional documentation and explanations for each design pattern can be found in the [Wiki](https://nemesis-wikijs.malicks.co.za/en/application-development-practice/notes).
+Additional documentation and explanations for each design pattern can be found in the [Wiki](https://nemesis-wikijs.malicks.co.za/en/application-development-practice/notes), or my
+[Google Doc](https://docs.google.com/document/d/14UeSj6s55VGrw4diJfQ3mi5gV1_VBIV1f-QU5x3arrg/edit?usp=sharing)
 
 Feel free to explore the examples and learn how to apply these design patterns to improve the quality and maintainability of your code.
 
